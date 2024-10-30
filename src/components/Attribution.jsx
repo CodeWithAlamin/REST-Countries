@@ -7,7 +7,7 @@ function Attribution() {
             Coded by
             <a
               className="mx-1 text-blue-700 dark:text-blue-200"
-              href="https://twitter.com/CodePapa360"
+              href="https://twitter.com/CodeWithAlamin"
               target="_blank"
               rel="noreferrer"
             >
@@ -18,7 +18,7 @@ function Attribution() {
             Challenge by
             <a
               className="mx-1 text-blue-700 dark:text-blue-200"
-              href="https://www.frontendmentor.io/profile/CodePapa360"
+              href="https://www.frontendmentor.io/profile/CodeWithAlamin"
               target="_blank"
               rel="noreferrer"
             >
